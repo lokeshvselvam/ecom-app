@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lokeshvselvam/ecom-app.git/static/css/main.9a83b207.css",
-    "main.js": "/lokeshvselvam/ecom-app.git/static/js/main.5bca9401.js",
-    "static/js/453.883dc481.chunk.js": "/lokeshvselvam/ecom-app.git/static/js/453.883dc481.chunk.js",
-    "static/media/purepng.com-walmart-logologobrand.png": "/lokeshvselvam/ecom-app.git/static/media/purepng.com-walmart-logologobrand.9d0550d39da492da2a02.png",
-    "static/media/apple.jpg": "/lokeshvselvam/ecom-app.git/static/media/apple.ed37e3996ce04863986b.jpg",
-    "static/media/H&M-Logo.svg.png": "/lokeshvselvam/ecom-app.git/static/media/H&M-Logo.svg.b39716048e997ea91d2f.png",
-    "static/media/pngtree-empty-shopping-cart-store-icon-png-image_5624129.png": "/lokeshvselvam/ecom-app.git/static/media/pngtree-empty-shopping-cart-store-icon-png-image_5624129.1546e5999ec899a24b20.png",
-    "static/media/playstore.webp": "/lokeshvselvam/ecom-app.git/static/media/playstore.b9bdedb4f903bf76dcb0.webp",
-    "static/media/W__Blue_RGB.avif": "/lokeshvselvam/ecom-app.git/static/media/W__Blue_RGB.2e57635ae7ff4d6b38e6.avif",
-    "index.html": "/lokeshvselvam/ecom-app.git/index.html",
-    "main.9a83b207.css.map": "/lokeshvselvam/ecom-app.git/static/css/main.9a83b207.css.map",
-    "main.5bca9401.js.map": "/lokeshvselvam/ecom-app.git/static/js/main.5bca9401.js.map",
-    "453.883dc481.chunk.js.map": "/lokeshvselvam/ecom-app.git/static/js/453.883dc481.chunk.js.map"
+    "main.css": "/ecom-app/static/css/main.9a83b207.css",
+    "main.js": "/ecom-app/static/js/main.9f098b83.js",
+    "static/js/453.883dc481.chunk.js": "/ecom-app/static/js/453.883dc481.chunk.js",
+    "static/media/purepng.com-walmart-logologobrand.png": "/ecom-app/static/media/purepng.com-walmart-logologobrand.9d0550d39da492da2a02.png",
+    "static/media/apple.jpg": "/ecom-app/static/media/apple.ed37e3996ce04863986b.jpg",
+    "static/media/H&M-Logo.svg.png": "/ecom-app/static/media/H&M-Logo.svg.b39716048e997ea91d2f.png",
+    "static/media/pngtree-empty-shopping-cart-store-icon-png-image_5624129.png": "/ecom-app/static/media/pngtree-empty-shopping-cart-store-icon-png-image_5624129.1546e5999ec899a24b20.png",
+    "static/media/playstore.webp": "/ecom-app/static/media/playstore.b9bdedb4f903bf76dcb0.webp",
+    "static/media/W__Blue_RGB.avif": "/ecom-app/static/media/W__Blue_RGB.2e57635ae7ff4d6b38e6.avif",
+    "index.html": "/ecom-app/index.html",
+    "main.9a83b207.css.map": "/ecom-app/static/css/main.9a83b207.css.map",
+    "main.9f098b83.js.map": "/ecom-app/static/js/main.9f098b83.js.map",
+    "453.883dc481.chunk.js.map": "/ecom-app/static/js/453.883dc481.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a83b207.css",
-    "static/js/main.5bca9401.js"
+    "static/js/main.9f098b83.js"
   ]
 }
